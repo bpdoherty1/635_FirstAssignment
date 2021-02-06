@@ -23,7 +23,7 @@ of no of rest and relaxation and kids an easy to understand activity they can do
 
 Card Game Features
 1. Rules feature: Easy to understand rules
-2. # of players feature: Ability to play with just two players
+2. Number of players feature: Ability to play with just two players
 3. Parental need feature: No parents needed to start
 4. Equipment needed feature: Only need 1 deck of cards to play
 
