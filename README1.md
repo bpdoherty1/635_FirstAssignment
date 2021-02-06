@@ -27,17 +27,5 @@ Card Game Features
 3. Parental need feature: No parents needed to start
 4. Equipment needed feature: Only need 1 deck of cards to play
 
-User Stories for the Concentration Card Game
-1. As a parent, I need to have my kids do an activity that doesn't require my time 
-so that I can lower my blood pressure during this pandemic
-2. As a parent, I need a game that's easy to understand for my kids so that
-I don't have to explain the rules to them every time they play
-3. As a parent, I need an activity that will help my kids use their brains so that they don't become stupid during the pandemic
-4. As a parent, I need a game I can play with all of my kids at the same time so that I can have fun with my kids instead of just teaching and cooking for them
-5. As a child, I need a game that's hard to cheat at so that my brother can't cheat when we play
-6. As a child, I need an activity that's fun so that I can do something I enjoy instead of just doing homework all the time
-7. As a child, I need a game that doesn't have lots of equipment so that my parents don't have to buy anything new because they are dirt poor
-8. As a card manufacturer, we need a game that can be played with the cards we make so that we don't have to make anything new
-9. As player, I need a full deck of cards so that each card has a pair
-10. As a player, I need to not be colorblind so that I can tell whether the cards turned over are the same color or not
+
 
