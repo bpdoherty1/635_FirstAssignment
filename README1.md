@@ -28,9 +28,6 @@ Card Game Features
 4. Equipment needed feature: Only need 1 deck of cards to play
 
 User Stories for the Concentration Card Game
-As a <role> I <want | need> to <do something> so
-that <reason>
-
 1. As a parent, I need to have my kids do an activity that doesn't require my time 
 so that I can lower my blood pressure during this pandemic
 2. As a parent, I need a game that's easy to understand for my kids so that
